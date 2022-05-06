@@ -1,13 +1,13 @@
 {
-  "name": "node-test",
+  "name": "node-sqlite",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node js api sqlite with jwt auth",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "jrsmth97",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
